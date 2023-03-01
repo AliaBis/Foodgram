@@ -3,7 +3,7 @@
 
 ## Запуск проекта в Docker контейнерах:
 * Склонировать репозиторий на ВМ:
-git clone https://github.com/AliaBis/foodgram-project-react
+git clone https://github.com/AliaBis/Foodgram
 ```
 cd foodgram-project-react
 ```
